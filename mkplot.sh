@@ -17,6 +17,8 @@ set format xy "10^%L"
 set xlabel "filesize [bytes]"
 set ylabel "end-start [sec]"
 
+set title "time of simple-I/O by using mmap() and bufering"
+
 plot \
 END
 
