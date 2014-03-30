@@ -1,0 +1,4 @@
+mmap
+buf
+*.o
+result.png
